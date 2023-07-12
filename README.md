@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abisri2004
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Biomedical engineering 2nd year
-- 💞️ I’m looking to collaborate on artificial intelligence using python
+- 🌱 I’m currently learning Biomedical engineering 3rd year
+- 💞️ I’m looking to collaborate on artificial intelligence and machine learning using python
 - 📫 How to reach me 
 
 <!---
